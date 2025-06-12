@@ -11,7 +11,7 @@
 <br><br>
 
 - :school: Actualmente estudio <code>Quality Assurance</code> en <a href="https://www.teclab.edu.ar/" target="_blank">Teclab</a> y fui <code>Tutor de UX/UI</code> en <a href="https://www.coderhouse.com/" target="_blank">Coderhouse</a>.
-- :test_tube: Trabajo como <code>QA Analyst</code> en <code>Global66</code>, cuento con experiencia en <code>Pruebas funcionales</code>,<code>Pruebas no funcionales</code>,<code>Pruebas automatizadas</code><code>UAT</code>,<code>Pruebas de API</code> y <code>Smoke Testing</code>.
+- :test_tube: Trabajo como <code>QA Analyst</code> en <code>Global66</code>, cuento con experiencia en <code>Pruebas funcionales</code>,<code>Pruebas no funcionales</code>,<code>Pruebas automatizadas</code><code>Pruebas UAT</code>,<code>Pruebas de API</code> y <code>Smoke Testing</code>.
 - :toolbox: Manejo herramientas como <code>Jira</code>,<code>Postman</code>,<code>Jmeter</code> <code>SQL</code>,<code>AWS</code>,<code>Python</code> y <code>Selenium</code>.
 - :nerd_face: Apasionado por la <code>resolución de problemas</code>, la <code>eficiencia</code>, y siempre en proceso de <code>aprendizaje constante</code>.
 - :mag_right: Estoy abierto a nuevas <code>oportunidades laborales</code>
