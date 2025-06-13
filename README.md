@@ -24,7 +24,7 @@
 
 <br>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/technologies.gif?raw=true" width="25"></picture> Skills & Tools
+## 🛠️ Skills & Tools
 
 ### Testing & Automation
 <div align="center">
